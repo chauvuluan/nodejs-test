@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "node index.js --forceExit"
+    "test": "node index.js --timeout 10000"
   },
   "keywords": [],
   "author": "",
